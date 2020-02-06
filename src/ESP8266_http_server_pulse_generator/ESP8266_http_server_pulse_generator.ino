@@ -85,7 +85,7 @@ String SendHTML(void){
   ptr +="</style>\n";
   ptr +="</head>\n";
   ptr +="<body>\n";
-  ptr +="<h1>Carport Control</h1>\n";
+  ptr +="<h1>10ms Pulse Generator</h1>\n";
   ptr +="<a class=\"button button-on\" href=\"/led1on\">PULSE</a>\n";
   ptr +="</body>\n";
   ptr +="</html>\n";
