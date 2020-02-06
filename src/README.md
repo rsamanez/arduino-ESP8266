@@ -17,3 +17,7 @@ If everything is OK, it will output the dynamic IP address obtained from your ro
    
 More details about this Applications on https://lastminuteengineers.com/creating-esp8266-web-server-arduino-ide/
    
+   
+## NOTE:   
+   
+To compile use the **NodeMCU 1.0 (ESP-12E Module)**
